@@ -25,5 +25,5 @@ describe '#parrot' do
 end
 
 def parrot("Pretty bird")
-  puts ("Squawk!")
+  puts("Squawk!")
 end
