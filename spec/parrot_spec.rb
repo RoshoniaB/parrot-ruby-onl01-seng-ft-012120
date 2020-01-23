@@ -24,6 +24,6 @@ describe '#parrot' do
   end
 end
 
-def parrot;("Pretty bird")
+def parrot ; ("Pretty bird")
   puts ("Squawk!")
 end
